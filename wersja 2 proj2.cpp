@@ -136,8 +136,6 @@ int main()
                 iloscruchow++;
                 zbite++;
             }
-            else
-                iloscruchow++;
             break;
         case 'K':
         case 'k':
